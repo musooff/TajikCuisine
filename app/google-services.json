@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "18492228558",
+    "firebase_url": "https://oshkhona-79088.firebaseio.com",
+    "project_id": "oshkhona-79088",
+    "storage_bucket": "oshkhona-79088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18492228558:android:83b8ad84cd05b50b",
+        "android_client_info": {
+          "package_name": "msoff.tajikcuisine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18492228558-hhm57f80lgdrh7n15g5krufjk9qerah6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfPhVWWrN6gR7gWdi6Jvmp-NMlxuojmfU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

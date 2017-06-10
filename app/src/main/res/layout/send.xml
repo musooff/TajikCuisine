@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:textColor="#3B463F"
+        android:id="@+id/text_sent"
+        android:textStyle="bold"
+        android:text="Ба мо дархосту маслихатхои хурдо нависед."/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:textSize="20sp"
+        android:layout_below="@+id/text_sent"
+        android:layout_margin="20dp"
+        android:textColor="#3B463F"
+        android:id="@+id/email_title"
+        android:hint="Мавзуи дархост"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/email_body"
+        android:layout_below="@id/email_title"
+        android:layout_margin="20dp"
+        android:textSize="20dp"
+        android:textColor="#3B463F"
+        android:hint="Дархости Шумо."
+        android:lines="7"
+        android:gravity="top|left"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/email_icon"
+        android:layout_margin="20dp"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/email"/>
+</RelativeLayout>

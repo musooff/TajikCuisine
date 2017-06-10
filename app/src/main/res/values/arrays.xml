@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="second_meals_menu">
+        <item>Дамламаи чугоримакка</item>
+        <item>Мантуи бирен</item>
+        <item>Оши туй</item>
+        <item>Хонум</item>
+        <item>Гулхонум</item>
+        <item>Оши чойхона</item>
+        <item>Курутоб</item>
+        <item>Дамламаи сабзавоти</item>
+        <item>Хасиб</item>
+    </array>
+    <integer-array name="second_meals_image_ids">
+        <item>@drawable/damlamai_jugorimakka</item>
+        <item>@drawable/mantui_biryon</item>
+        <item>@drawable/oshi_tuy</item>
+        <item>@drawable/xonum</item>
+        <item>@drawable/gulxonum</item>
+        <item>@drawable/oshi_choyxona</item>
+        <item>@drawable/qurutob</item>
+        <item>@drawable/damlamai_sabzavot</item>
+        <item>@drawable/hasib</item>
+    </integer-array>
+</resources>
