@@ -8,8 +8,8 @@ android {
         applicationId "msoff.tajikcuisine"
         minSdkVersion 10
         targetSdkVersion 23
-        versionCode 6
-        versionName "2.0.2"
+        versionCode 7
+        versionName "2.1.2"
     }
     buildTypes {
         release {

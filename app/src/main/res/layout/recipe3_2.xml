@@ -179,7 +179,7 @@
             android:layout_height="wrap_content"
             android:padding="5dp"
             android:adjustViewBounds="true"
-            android:src="@drawable/jigar_kabob6"/>
+            android:src="@drawable/jigar_kabob0"/>
     </LinearLayout>
     </LinearLayout>
 </ScrollView>

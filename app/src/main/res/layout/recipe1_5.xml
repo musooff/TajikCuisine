@@ -21,7 +21,7 @@
         android:layout_height="@dimen/app_bar_height_2"
         android:fitsSystemWindows="true"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
-        android:background="@drawable/oshi_choyxona"
+        android:background="@drawable/oshi_choyxona10"
         android:theme="@style/AppTheme.NoActionBar">
 
         <android.support.design.widget.CollapsingToolbarLayout
@@ -235,11 +235,6 @@
             android:layout_height="wrap_content"
             android:textSize="20dp"
             android:text="@string/recipe1_5_8"/>
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="5dp"
-            android:src="@drawable/oshi_choyxona9"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -255,18 +250,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="5dp"
-            android:src="@drawable/oshi_choyxona10"/>
+            android:src="@drawable/oshi_choyxona9"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20dp"
             android:text="@string/recipe1_5_10"/>
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="5dp"
-            android:src="@drawable/oshi_choyxona11"/>
+
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

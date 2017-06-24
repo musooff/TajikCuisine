@@ -8,7 +8,7 @@
             android:title="Хуроки Шумо!" />
     </group>
 
-    <item android:title="TajApp Inc.">
+    <item android:title="TajApp">
         <menu>
             <item
                 android:id="@+id/nav_games"

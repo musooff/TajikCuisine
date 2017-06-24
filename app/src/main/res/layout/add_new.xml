@@ -32,7 +32,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Анакнун шумо метавонед, тарзи тайёркунии хуроки худро дар ин барнома гузоред. Мо албатта номи шуморо (ё номи Ошхонаи шуморо) хамчун нависанда дар ин барнома мегурозем."
+                    android:text="(Дар оянда)\nШумо метавонед, тарзи тайёркунии хуроки худро дар ин барнома гузоред. Мо албатта номи шуморо (ё номи Ошхонаи шуморо) хамчун нависанда дар ин барнома мегурозем."
                     android:textAlignment="center"
                     android:layout_margin="10dp"
                     android:id="@+id/add_text_info"

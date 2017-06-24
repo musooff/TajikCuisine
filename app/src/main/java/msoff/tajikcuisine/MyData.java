@@ -31,7 +31,7 @@ public class MyData {
     static Integer[] second_meals_image_ids = {
             R.drawable.damlamai_jugorimakka,
             R.drawable.tokkabob,
-            R.drawable.qurutob, R.drawable.oshi_choyxona,
+            R.drawable.qurutob, R.drawable.oshi_choyxona13,
             R.drawable.mantui_biryon, R.drawable.xonum,
             R.drawable.gulxonum,
             R.drawable.non_palov,

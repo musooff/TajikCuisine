@@ -212,7 +212,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="5dp"
-            android:src="@drawable/mantui_biryon1"/>
+            android:src="@drawable/mantui_biryon2"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -222,7 +222,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="5dp"
-            android:src="@drawable/mantui_biryon2"/>
+            android:src="@drawable/mantui_biryon1"/>
 
         <TextView
             android:layout_width="match_parent"
