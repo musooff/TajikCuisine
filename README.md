@@ -1,6 +1,5 @@
 # TajikCuisine
-Below is official Play Stoe Description\n
-
+Below is official Play Stoe Description
 
 In our Oshkhona - Taomhoi Milli Application we have recipes and preparation guidelines to prepare Tajik Cuisine. We provided not only written descriptions but also pictures of the stages so that you follow up. We also have timers within our application in order to notify you to go for the next stage. You can just turn on timer and have a cup of tea by this time.
 Oshkhona application includes:
