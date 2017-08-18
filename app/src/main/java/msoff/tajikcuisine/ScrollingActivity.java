@@ -1,6 +1,7 @@
 package msoff.tajikcuisine;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -92,9 +93,9 @@ public class ScrollingActivity extends AppCompatActivity implements NavigationVi
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_add) {
-            Intent add = new Intent(ScrollingActivity.this,Test.class);
-            startActivity(add);
+        if (id == R.id.nav_prayer) {
+            Intent in  = new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=com.simurgh.prayertimes"));
+            startActivity(in);
 
         } else if (id == R.id.nav_games) {
             Intent bozi = new Intent(ScrollingActivity.this,Bozi.class);

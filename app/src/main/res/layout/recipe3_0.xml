@@ -12,7 +12,8 @@
 <ScrollView
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:layout_below="@+id/adView3_0">
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
@@ -205,7 +206,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
         android:layout_gravity="center"
         ads:adSize="BANNER"
         ads:adUnitId="@string/banner_ad_unit_id">
